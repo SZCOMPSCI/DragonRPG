@@ -1,4 +1,4 @@
-# Dragon Repeller RPG
+# Dragon Dungeon RPG
 
 A browser-based role-playing game built with HTML, CSS, and JavaScript. Players explore locations, manage stats and inventory, fight monsters, and ultimately attempt to defeat the dragon.
 
